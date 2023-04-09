@@ -1,5 +1,6 @@
 # HLA-NoVR
 NoVR Script for Half-Life: Alyx
+
 Mod repository note: due to regular (and huge) NoVR main mod changes, I'm constantly updating this repo by manually making reset to clear state, and applying all mod support changes again.
 
 # Mod support
