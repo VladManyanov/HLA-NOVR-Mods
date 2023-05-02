@@ -27,6 +27,7 @@
 		//
 		SearchPaths
 		{
+			Game				novr_wristpockets
 			Game				novr
 			Game				hlvr
 			Game				core
